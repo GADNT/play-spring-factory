@@ -1,4 +1,4 @@
-package com.gad.spring.play.springplay;
+package com.gad.spring.play;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

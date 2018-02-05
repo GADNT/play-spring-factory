@@ -1,4 +1,4 @@
-package com.gad.spring.play.springplay;
+package com.gad.spring.play;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
